@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'NanumB';
+  src: local('NanumGothicCoding'),
+    url('./NanumGothicCoding-Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'NanumR';
+  src: local('NanumGothicCoding'),
+    url('./NanumGothicCoding-Regular.ttf') format('truetype');
+}
